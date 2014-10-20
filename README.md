@@ -1,7 +1,7 @@
 Cetchup
 =======
 
-![alt tag] http://g.recordit.co/8Zaixdfsen.gif
+![alt tag](http://g.recordit.co/8Zaixdfsen.gif)
 
 Very, very, very basic connection app to the Rotten Tomatoes API.
 
